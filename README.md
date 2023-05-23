@@ -32,6 +32,9 @@ User Sign Up:
 
 ![image](https://github.com/aisha-sk/BankSystem/assets/85010415/58942075-f5cb-4499-8c93-75ac15dda673)
 
+
+
+
 User Login:
 ![image](https://github.com/aisha-sk/BankSystem/assets/85010415/d3f53875-d298-456e-b9e8-e28ec98b62f4)
 ![Screen Shot 2023-05-23 at 8 51 34 PM](https://github.com/aisha-sk/BankSystem/assets/85010415/c8521e09-61a7-470b-8c63-bd8e52f681fc)
