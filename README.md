@@ -30,9 +30,7 @@ The admin is the only one who can view the database. To access the admin databas
 
 User Sign Up:
 
-![image](https://github.com/aisha-sk/BankSystem/assets/85010415/58942075-f5cb-4499-8c93-75ac15dda673)
-
-
+![Screen Shot 2023-05-23 at 9 00 12 PM](https://github.com/aisha-sk/BankSystem/assets/85010415/a27a6abc-8966-41d4-a417-26fdd4db639e)
 
 
 User Login:
