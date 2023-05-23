@@ -1,7 +1,7 @@
-# BankSystem
-# MySQL  localhost:33060+ ssl  bank  SQL > ALTER TABLE TRANSACTIONHISTORY ADD FOREIGN KEY(ACCOUNTNUM) REFERENCES RECORDS(ACCOUNTNUM);
+# Bank Management System [MySQL + Python]
+<!--MySQL  localhost:33060+ ssl  bank  SQL > ALTER TABLE TRANSACTIONHISTORY ADD FOREIGN KEY(ACCOUNTNUM) REFERENCES RECORDS(ACCOUNTNUM);
 # MySQL  localhost:33060+ ssl  bank  SQL > alter table transactionhistory modify dates varchar(20);
-# MySQL  localhost:33060+ ssl  bank  SQL > alter table loans add foreign key(accountnum) references records(accountnum
+# MySQL  localhost:33060+ ssl  bank  SQL > alter table loans add foreign key(accountnum) references records(accountnum -->
 
 This project has been created with MySQL & Python Connectivity. 
 
