@@ -27,15 +27,27 @@ The admin is the only one who can view the database. To access the admin databas
 
 **OUTPUT DEMO:**
 
-User Sign Up:![image](https://github.com/aisha-sk/BankSystem/assets/85010415/58942075-f5cb-4499-8c93-75ac15dda673)
 
-User Login:![image](https://github.com/aisha-sk/BankSystem/assets/85010415/d3f53875-d298-456e-b9e8-e28ec98b62f4)
+User Sign Up:
+![image](https://github.com/aisha-sk/BankSystem/assets/85010415/58942075-f5cb-4499-8c93-75ac15dda673)
+
+User Login:
+![image](https://github.com/aisha-sk/BankSystem/assets/85010415/d3f53875-d298-456e-b9e8-e28ec98b62f4)
 ![Screen Shot 2023-05-23 at 8 51 34 PM](https://github.com/aisha-sk/BankSystem/assets/85010415/c8521e09-61a7-470b-8c63-bd8e52f681fc)
 ![Screen Shot 2023-05-23 at 8 52 03 PM](https://github.com/aisha-sk/BankSystem/assets/85010415/c370fc77-293f-4537-b634-ceee7ade44c8)
 
-Admin Portal:![image](https://github.com/aisha-sk/BankSystem/assets/85010415/01a1c653-78cd-452c-b208-98086442c57e)
+Admin Portal:
+![image](https://github.com/aisha-sk/BankSystem/assets/85010415/01a1c653-78cd-452c-b208-98086442c57e)
 ![Screen Shot 2023-05-23 at 8 52 44 PM](https://github.com/aisha-sk/BankSystem/assets/85010415/0d444a1a-bf0d-4a5d-859b-f8c34b7fb1a6)
 ![Screen Shot 2023-05-23 at 8 52 59 PM](https://github.com/aisha-sk/BankSystem/assets/85010415/dd2554e4-3a24-42c0-960d-49f4cd0b951c)
+![Screen Shot 2023-05-23 at 8 56 18 PM](https://github.com/aisha-sk/BankSystem/assets/85010415/c6a29273-24b4-4469-8694-327f24318b4e)
+
+Employee Login
+![image](https://github.com/aisha-sk/BankSystem/assets/85010415/dd4b6ef2-6c6c-42c9-b10a-880c5711a2ef)
+![Screen Shot 2023-05-23 at 8 56 55 PM](https://github.com/aisha-sk/BankSystem/assets/85010415/2d86ae9a-6bb4-4d7d-a2bd-dca494cdb062)
+![Screen Shot 2023-05-23 at 8 57 10 PM](https://github.com/aisha-sk/BankSystem/assets/85010415/5a12af14-6692-4063-89be-d9e9d06e89d0)
+
+
 
 
 
